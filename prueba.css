@@ -1,0 +1,9 @@
+.pruebaClass {
+    padding: 20px;
+    margin: 30px;
+    color: white;
+    background-color: black;
+    font-size: 26px;
+    border-radius: 50px;
+    text-align: center;
+}
